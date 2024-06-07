@@ -1,0 +1,5 @@
+B1. Mở connect.php và chỉnh sửa lại server, database, username và password.
+B2. Upload bài lên host.
+B3. Mở index.php để chạy.
+	Tài khoản: admin
+	Mật khẩu: admin
